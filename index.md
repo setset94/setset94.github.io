@@ -1,3 +1,11 @@
 # Flowey the Flower
 
 An evil talking flower in the world of undertale.
+
+## character traits
+
+* talking flower
+* manipulativ
+* time traveler
+* pure evil
+* helps you gather LOVE

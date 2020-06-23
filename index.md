@@ -9,3 +9,6 @@ An evil talking flower in the world of undertale.
 * time traveler
 * pure evil
 * helps you gather LOVE
+
+> In this world...
+> It's KILL or BE killed!

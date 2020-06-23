@@ -12,3 +12,5 @@ An evil talking flower in the world of undertale.
 
 > In this world...
 > It's KILL or BE killed!
+
+<img src="http://pixelartmaker.com/art/c7916aa27fd40a9.png"/>
